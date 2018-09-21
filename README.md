@@ -2,7 +2,7 @@
 
 [Olist](https://olist.com/) is the largest department store of Brazilian marketplaces. We connect small businesses to channels without hassle and with a single contract. We have connected more than 3.4 thousand sellers to stores like Americanas.com, Ponto Frio, Walmart, Submarino, Mercado Livre, among others.
 
-# Business Science and Analytics (BS&A)
+## Business Science and Analytics (BS&A)
 The Olist Business Science and Analytics (BS&A) was structured to subsidize business strategies and improve the operational efficiency through the use of analytics techniques and to be a trustworthy source of information. The BS&A team consists of data scientists, data engineers, data analysts, business analysts and developers.
 
 You may read more about the BS&A structure here (in portuguese):
