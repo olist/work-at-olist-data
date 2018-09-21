@@ -31,10 +31,10 @@ This is real commercial data, it has been anonymized, and references to the comp
 You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Bellow are some examples of things you might want to do, but feel free to use your creativity. You **are not required** to do everything listed bellow, remember that quality is more important than quantity.
 
 ### Data Analyst
-You may want to build some dashboards, build some reports or find correlations between the data. Your job is to show us what is important and why, build some metrics and help us make better decisions with data. Show us that you are a master of SQL and knows how to use Python!
+Your job is to build dashboards, create some reports or find correlations between the data. Tell us what is important and why, build some metrics and help us make better decisions with data. Create impressive data visualizations, extract meaning from the data. Show us that you are a master of SQL and knows how to use Python!
 
 ### Business Analyst
-Your job is to build business KPIs from the data and find relationships with the real world. Remember this is real data, show us which events are important, how customers from certain regions are better or worse or yet which products shoul we focus our sales efforts. Show us that you master Excel, know a lot of SQL and understand the basics of Python.
+Your job is to build business KPIs from the data and find relationships with the real world. Remember this is real data, so show us which events are important, how customers from certain regions are better or worse or yet which products shoul we focus our sales efforts. Show us that you master Excel, knows a lot of SQL and understand the basics of Python.
 
 ### Data Scientist
 Your job is to build robust statistical analysis with the data. Do some feature engineering, create models to predict sales or classify comments. Remember that you might have to put models into production environment, then make your code ready to get a new unseen json record and predict the outcome from that data. Discover why customers are happy or unhappy or tell us how to improve delivery performance. You name it... there is a ton of thins that you might do with the data. Just show us that you ara a Pandas Ninja, a Jedi Master of scikit-learn and that you are able to build fantastic visualizations. Statistics and SQL are also important skills.
