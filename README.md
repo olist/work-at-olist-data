@@ -21,6 +21,7 @@ This repository contains instructions to solve problems that are used to evaluat
    * Link to the fork on Github;
    * Link to the deployed project.
 
+# Work at Olist Test
 ## Dataset Specification
 Olist has released a [public dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce). The dataset has information of 100k orders from 2016 to 2018. Its 21 supportive features allows viewing an order from multiple dimensions: from order status, price and freight performance to customer location, product attributes and finally reviews written by customers.
 
@@ -31,14 +32,18 @@ This is real commercial data, it has been anonymized, and references to the comp
 ## Project Requirements
 You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Bellow are some examples of things you might want to do, but feel free to use your creativity. You **are not required** to do everything listed bellow, remember that quality is more important than quantity.
 
-### Data Analyst
-Your job is to build dashboards, create some reports or find correlations between the data. Tell us what is important and why, build some metrics and help us make better decisions with data. Create impressive data visualizations, extract meaning from the data. Show us that you are a master of SQL and knows how to use Python!
-
-### Business Analyst
+---
+### 1. Business Analyst
 Your job is to build business KPIs from the data and find relationships with the real world. Remember this is real data, so show us which events are important, how customers from certain regions are better or worse or yet which products should we focus our sales efforts. Show us that you master Excel, knows a lot of SQL and understand the basics of Python.
 
-### Data Scientist
+---
+### 2. Data Analyst
+Your job is to build dashboards, create some reports or find correlations between the data. Tell us what is important and why, build some metrics and help us make better decisions with data. Create impressive data visualizations, extract meaning from the data. Show us that you are a master of SQL and knows how to use Python!
+
+---
+### 3. Data Scientist
 Your job is to build robust statistical analysis with the data. Do some feature engineering, create models to predict sales or classify comments. Remember that you might have to put models into production environment, then make your code ready to get a new unseen json record and predict the outcome from that data. Discover why customers are happy or unhappy or tell us how to improve delivery performance. You name it... there is a ton of thins that you might do with the data. Just show us that you are a Pandas Ninja, a Jedi Master of scikit-learn and that you are able to build fantastic visualizations. Statistics and SQL are also important skills.
 
-### Data Engineer
+---
+### 4. Data Engineer
 Your job is to build our pipes of data. You breath ETL. Complement the dataset with some external data or create a crawler to aquire information from third party websites or APIs. Do tons of feature engineering. Set-up a relational database (or a NoSQL) and input the treated data there. Create some complex SQLs to extract and transform data. Show us that you are fluent at SQL and Pandas, kwon your way around Python Scripting and that you are able to do complex and meaningful work with data.
