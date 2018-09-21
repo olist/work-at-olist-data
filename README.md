@@ -21,16 +21,18 @@ This repository contains instructions to solve problems that are used to evaluat
    * Link to the fork on Github;
    * Link to the deployed project.
 
-# Work at Olist Test
-## Dataset Specification
+# Work at Olist BS&A - Test
+## Dataset
 Olist has released a [public dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce). The dataset has information of 100k orders from 2016 to 2018. Its 21 supportive features allows viewing an order from multiple dimensions: from order status, price and freight performance to customer location, product attributes and finally reviews written by customers.
 
 https://www.kaggle.com/olistbr/brazilian-ecommerce
 
 This is real commercial data, it has been anonymized, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses. Read carefully the dataset overview and understand all data available.
 
-## Project Requirements
-You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Bellow are some examples of things you might want to do, but feel free to use your creativity. You **are not required** to do everything listed bellow, remember that quality is more important than quantity.
+## Requirements
+You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Choose the position that best suits you and have fun with the data. Bellow are some examples of things you might want to do, but feel free to use your creativity.
+
+> You **are not required** to do everything listed bellow... remember that quality is more important than quantity.
 
 ---
 ### 1. Business Analyst
