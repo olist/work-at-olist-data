@@ -34,7 +34,6 @@ You may want to solve different types of problems with this dataset. Each job de
 
 > You **are not required** to do everything listed bellow... remember that quality is more important than quantity.
 
----
 ### 1. Business Analyst
 Your job is to build business KPIs from the data and find relationships with the real world. Remember this is real data, so show us which events are important, how customers from certain regions are better or worse or yet which products should we focus our sales efforts. Show us that you master Excel, knows a lot of SQL and understand the basics of Python.
 
