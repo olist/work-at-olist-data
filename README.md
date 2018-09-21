@@ -28,7 +28,7 @@ https://www.kaggle.com/olistbr/brazilian-ecommerce
 This is real commercial data, it has been anonymized, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses. Read carefully the dataset overview and understand all data available.
 
 ## Project Requirements
-You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Bellow are some tips of things you might want to do, but feel free to use your creativity. You **are not required** to do everything listed bellow, remember that quality is more important than quantity.
+You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Bellow are some examples of things you might want to do, but feel free to use your creativity. You **are not required** to do everything listed bellow, remember that quality is more important than quantity.
 
 ### Data Analyst
 You may want to build some dashboards, build some reports or find correlations between the data. Your job is to show us what is important and why, build some metrics and help us make better decisions with data. Show us that you are a master of SQL and knows how to use Python!
