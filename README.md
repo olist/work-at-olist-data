@@ -9,7 +9,7 @@ You may read more about the BS&A structure here (in portuguese):
 2. [Como estruturar uma equipe de análise de dados em uma startup? — Parte 2](https://engineering.olist.com/como-estruturar-uma-equipe-de-an%C3%A1lise-de-dados-em-uma-startup-parte-2-67785fa23a08) <-> Detalhes das tarefas e funções existentes em BS&A e como ela se encaixa dentro da empresa.
 3. [Como estruturar uma equipe de análise de dados em uma startup? — Parte 3](https://engineering.olist.com/como-estruturar-uma-equipe-de-an%C3%A1lise-de-dados-em-uma-startup-parte-3-b64bf93d4453) <->  Job descriptions de cada função de BS&A e primeiras impressões sobre o funcionamento da área.
 
-This repository contains instructions to solve a problem used to evaluate the candidate skills. It's important to notice that satisfactorily solving the problem is just a part of what will be evaluated. We also consider other disciplines like data understanding, data visualization skills, statistics knowledge, machine learning understanding and its correct use, documentation, design and coding best practices.
+This repository contains instructions to solve problems that are used to evaluate the candidate skills. It's important to notice that satisfactorily solving it is just a part of what will be evaluated. We also consider other disciplines like data understanding, data visualization skills, statistics knowledge, machine learning understanding and its correct use, documentation, design and coding best practices.
 
 ## How to participate
 
