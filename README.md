@@ -52,4 +52,4 @@ Your job is to build robust statistical analysis with the data. Do some feature 
 
 ---
 ### 4. Data Engineer
-Your job is to build our pipes of data. You breath ETL. Complement the dataset with some external data or create a crawler to aquire information from third party websites or APIs. Do tons of feature engineering. Set-up a relational database (or a NoSQL) and input the treated data there. Create some complex SQLs to extract and transform data. Show us that you are fluent at SQL and Pandas, kwon your way around Python Scripting and that you are able to do complex and meaningful work with data.
+Your job is to build our pipes of data. You breath ETL. Complement the dataset with some external data or create a crawler to aquire information from third party websites or APIs. Do tons of feature engineering. Set-up a relational database (or a NoSQL) and input the treated data there. Create some complex SQLs to extract and transform data. Show us that you are fluent at SQL and Pandas, have knowledge of Python Scripting and that you are able to do complex and meaningful work with data.
