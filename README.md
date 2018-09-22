@@ -16,7 +16,12 @@ This repository contains instructions to solve problems that are used to evaluat
 
 1. Make a fork of this repository on Github.
 2. Follow the instructions of README.md (this file);
-3. Deploy the project if necessary. We recomend using [Kaggle Kernels](https://www.kaggle.com/kernels)
+3. Deploy the project if necessary. Here are some tools we recomend:
+  * [Kaggle Kernels](https://www.kaggle.com/kernels) for Jupyter Notebooks
+  * [Colaboratory](https://colab.research.google.com) for Jupyter Notebooks
+  * [Redash](https://redash.io/) for SQL and dashboarding
+  * [Mode](https://modeanalytics.com/) for SQL, dashboarding and Jupyter Notebooks
+  * [Plotly](https://plot.ly/) for powerfull data visualizations
 4. Apply for the position at our [career page](https://www.99jobs.com/olist) with:
    * Link to the fork on Github;
    * Link to the deployed project.
@@ -31,6 +36,8 @@ This is real commercial data, it has been anonymized, and references to the comp
 You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Choose the position that best suits you and have fun with the data. Bellow are some examples of things you might want to do, but feel free to use your creativity.
 
 > You **are not required** to do everything listed bellow... remember that quality is more important than quantity.
+
+**Language Requirements:** We like to experiment new things! Fell encouraged to solve the test with the tool you like the most. We would love to see solutions using languages such as R, Julia or Scala.
 
 ### 1. Business Analyst
 Your job is to build business KPIs from the data and find relationships with the real world. Remember this is real data, so show us which events are important, how customers from certain regions are better or worse or yet which products should we focus our sales efforts. Show us that you master Excel, knows a lot of SQL and understand the basics of Python.
