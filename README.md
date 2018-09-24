@@ -21,7 +21,7 @@ This repository contains instructions to solve problems that are used to evaluat
    * [Colaboratory](https://colab.research.google.com) for Jupyter Notebooks
    * [Redash](https://redash.io/) for SQL and dashboarding
    * [Mode](https://modeanalytics.com/) for SQL, dashboarding and Jupyter Notebooks
-   * [Plotly](https://plot.ly/) for powerfull data visualizations
+   * [Plotly](https://plot.ly/) for powerful data visualizations
 4. Apply for the position at our [career page](https://www.99jobs.com/olist) with:
    * Link to the fork on Github;
    * Link to the deployed project.
