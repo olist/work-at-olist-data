@@ -14,17 +14,17 @@ This repository contains instructions to solve problems that are used to evaluat
 
 ## How to participate
 
-1. Make a fork of this repository on Github
-2. Follow the instructions of README.md (this file)
+1. Make a fork of this repository on Github;
+2. Follow the instructions of README.md (this file);
 3. Deploy the project if necessary. Here are some tools we recomend:
-   * [Kaggle Kernels](https://www.kaggle.com/kernels) for Jupyter Notebooks
-   * [Colaboratory](https://colab.research.google.com) for Jupyter Notebooks
-   * [Redash](https://redash.io/) for SQL and dashboarding
-   * [Mode](https://modeanalytics.com/) for SQL, dashboarding and Jupyter Notebooks
-   * [Plotly](https://plot.ly/) for powerful data visualizations
+   * [Kaggle Kernels](https://www.kaggle.com/kernels) for Jupyter Notebooks;
+   * [Colaboratory](https://colab.research.google.com) for Jupyter Notebooks;
+   * [Redash](https://redash.io/) for SQL and dashboarding;
+   * [Mode](https://modeanalytics.com/) for SQL, dashboarding and Jupyter Notebooks;
+   * [Plotly](https://plot.ly/) for powerful data visualizations.
 4. Apply for the position at our [career page](https://www.99jobs.com/olist) with:
-   * Link to the fork on Github
-   * Link to the deployed project
+   * Link to the fork on Github;
+   * Link to the deployed project.
 
 # Work at Olist BS&A - Test
 ## Dataset
