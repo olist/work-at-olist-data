@@ -14,8 +14,8 @@ This repository contains instructions to solve problems that are used to evaluat
 
 ## How to participate
 
-1. Make a fork of this repository on Github.
-2. Follow the instructions of README.md (this file);
+1. Make a fork of this repository on Github
+2. Follow the instructions of README.md (this file)
 3. Deploy the project if necessary. Here are some tools we recomend:
    * [Kaggle Kernels](https://www.kaggle.com/kernels) for Jupyter Notebooks
    * [Colaboratory](https://colab.research.google.com) for Jupyter Notebooks
@@ -23,12 +23,12 @@ This repository contains instructions to solve problems that are used to evaluat
    * [Mode](https://modeanalytics.com/) for SQL, dashboarding and Jupyter Notebooks
    * [Plotly](https://plot.ly/) for powerful data visualizations
 4. Apply for the position at our [career page](https://www.99jobs.com/olist) with:
-   * Link to the fork on Github;
-   * Link to the deployed project.
+   * Link to the fork on Github
+   * Link to the deployed project
 
 # Work at Olist BS&A - Test
 ## Dataset
-Olist has released a [public dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce). The dataset has information of 100k orders from 2016 to 2018. Its 21 supportive features allows viewing an order from multiple dimensions: from order status, price and freight performance to customer location, product attributes and finally reviews written by customers.
+Olist has released a [public dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce). The dataset contains information from 100k orders from 2016 to 2018. Its 21 supportive features allows viewing an order from multiple dimensions: from order status, price and freight performance to customer location, product attributes and finally reviews written by customers.
 
 This is real commercial data, it has been anonymized, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses. Read carefully the dataset overview and understand all data available.
 
