@@ -32,7 +32,7 @@ Olist has released a [public dataset on Kaggle](https://www.kaggle.com/olistbr/b
 
 This is real commercial data, it has been anonymized, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses. Read carefully the dataset overview and understand all data available.
 
-Tell us something we don't know.
+# Tell us something we don't know. Wich business value would you create for Olist with this data?
 
 ## Requirements
 You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Choose the position that best suits you and have fun with the data. Bellow are some examples of things you might want to do, but feel free to use your creativity.
