@@ -40,7 +40,7 @@ You may want to solve different types of problems with this dataset. Each job de
 
 > You **are not required** to do everything listed bellow... remember that quality is more important than quantity.
 
-**Language Requirements:** We like to experiment new things! Fell encouraged to solve the test with the tool you like the most. We would love to see solutions using languages such as R, Julia or Scala.
+**Language Requirements:** We like to experiment new things! Feel encouraged to solve the test with the tool you like the most. We would love to see solutions using languages such as R, Julia or Scala.
 
 ### 1. Business Analyst
 Your job is to build business KPIs from the data and find relationships with the real world. Remember this is real data, so show us which events are important, how customers from certain regions are better or worse or yet which products should we focus our sales efforts. Show us that you master Excel, knows a lot of SQL and understand the basics of Python.
