@@ -1,54 +1,80 @@
-# Work at Olist - BS&A (V2)
+# Teste prático (olist-hiring-bsa)
 
-[Olist](https://olist.com/) is the largest department store of Brazilian marketplaces. We connect small businesses to channels without hassle and with a single contract. We have connected more than 4.1 thousand sellers to stores like Americanas.com, Ponto Frio, Walmart, Submarino, Mercado Livre, Amazon, among others.
+Esta é a página com o teste prático para candidatos ao processo seletivo de cientistas, analistas e engenheiros de dados para o time de Business Science & Analytics do olist. Ao finalizar o teste, nos comunique pelo **[https://bit.ly/2NNVyXk](https://bit.ly/2NNVyXk)**.
 
-## Business Science and Analytics (BS&A)
-The Olist Business Science and Analytics (BS&A) was structured to subsidize business strategies and improve the operational efficiency through the use of analytics techniques and to be a trustworthy source of information. The BS&A team consists of data scientists, data engineers, data analysts, business analysts and developers.
+## Cenário
 
-You may read more about the BS&A structure here (in portuguese):
-1. [Como estruturar uma equipe de análise de dados em uma startup? — Parte 1](https://engineering.olist.com/como-estruturar-uma-equipe-de-an%C3%A1lise-de-dados-em-uma-startup-parte-1-509a9c65cfe2) <-> Entenda como criamos a área de Business Science & Analytics, que reúne os profissionais de análise de dados no Olist. Prós e contras de uma estrutura integrada e de uma estrutura federada.
-2. [Como estruturar uma equipe de análise de dados em uma startup? — Parte 2](https://engineering.olist.com/como-estruturar-uma-equipe-de-an%C3%A1lise-de-dados-em-uma-startup-parte-2-67785fa23a08) <-> Detalhes das tarefas e funções existentes em BS&A e como ela se encaixa dentro da empresa.
-3. [Como estruturar uma equipe de análise de dados em uma startup? — Parte 3](https://engineering.olist.com/como-estruturar-uma-equipe-de-an%C3%A1lise-de-dados-em-uma-startup-parte-3-b64bf93d4453) <->  Job descriptions de cada função de BS&A e primeiras impressões sobre o funcionamento da área.
+O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo com mais de 250 mil produtos e uma rede de mais de 5 mil lojistas parceiros espalhados por todo o Brasil. Entendemos que a área de dados e inteligência é uma das principais alavancas de crescimento do negócio, por isso buscamos profissionais apaixonados por dados para integrar a nossa equipe de Business Science e Analytics (BSA).
 
-This repository contains instructions to solve problems that are used to evaluate the candidate skills. It's important to notice that satisfactorily solving it is just a part of what will be evaluated. We also consider other disciplines like data understanding, data visualization skills, statistics knowledge, machine learning understanding and its correct use, documentation, design and coding best practices.
+Estamos o tempo todo gerando dados, dados e muito mais dados. Nosso cenário é de big data!
 
-## How to participate
+## Como é o nosso banco de dados?
 
-1. Make a fork of this repository on Github;
-2. Follow the instructions of README.md (this file);
-3. Deploy the project if necessary. Here are some tools we recomend:
-   * [Kaggle Kernels](https://www.kaggle.com/kernels) for Jupyter Notebooks;
-   * [Colaboratory](https://colab.research.google.com) for Jupyter Notebooks;
-   * [Redash](https://redash.io/) for SQL and dashboarding;
-   * [Mode](https://modeanalytics.com/) for SQL, dashboarding and Jupyter Notebooks;
-   * [Plotly](https://plot.ly/) for powerful data visualizations.
-4. Apply for the position at our [career page](https://www.99jobs.com/olist) with:
-   * Link to the fork on Github;
-   * Link to the deployed project.
+Considere que a figura abaixo seja um hipotético banco de dados de e-commerce e que cada tabela desse banco de dados esteja disponível como um dataset. [Aqui estão os datasets](/datasets). Perceba que os dados são amostrais e estão apresentados no modelo relacional, pois foram extraídos diretamente do ambiente transacional.
 
-# Work at Olist BS&A - Test
-## Dataset
-Olist has released a [public dataset on Kaggle](https://www.kaggle.com/olistbr/brazilian-ecommerce). The dataset contains information from 100k orders from 2016 to 2018. Its 21 supportive features allows viewing an order from multiple dimensions: from order status, price and freight performance to customer location, product attributes and finally reviews written by customers.
+![Estrutura do Banco de Dados](images/schema.png)
 
-This is real commercial data, it has been anonymized, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses. Read carefully the dataset overview and understand all data available.
+Bom, e aqui você pode observar como um produto é exibido na plataforma de e-commerce.
 
-## Main objective
-> **Tell us something we don't know. Which business value would you create for Olist with this data?**
+![Exemplo de produto exibido na plataforma](images/example.png)
 
-## Requirements
-You may want to solve different types of problems with this dataset. Each job description inside Business Science & Analytics requires a different set of skills and this dataset provides enough data to everyone work on it. Choose the position that best suits you and have fun with the data. Bellow are some examples of things you might want to do, but feel free to use your creativity.
+## Desafio
 
-> You **are not required** to do everything listed bellow... remember that quality is more important than quantity.
+Esta plataforma de e-commerce transaciona dados do varejo brasileiro. Assim, as áreas de negócio da empresa estão com algumas dúvidas e desafios como:
 
-**Language Requirements:** We like to experiment new things! Feel encouraged to solve the test with the tool you like the most. We would love to see solutions using languages such as R, Julia or Scala.
+* Será que nossos diferentes lojistas associados conseguem manter o preço do mesmo produto sem grandes discrepâncias?
+* Podemos dar os mesmos benefícios para todos os lojistas (sellers)? Ou existe algum que merece destaque?
+* Existe diferença no valor do frete praticado em regiões/cidades diferentes? Ou podemos aplicar as mesmas regras de subsídio de frete para qualquer localidade?
+* Será que nosso catálogo de produtos é abrangente? Ou tem foco em poucas categorias?
+* Será que vendemos os mesmos produtos rotineiramente? Ou existem sazonalidades?
+* Será que conseguimos ter um modelo preditivo para nos preparar para o futuro?
+* Será que o atual banco de dados vai suportar o nosso crescimento? Ou existe uma opção mais escalável?
 
-### 1. Business Inteligence Analyst and Data Analyst
-Your job is to build business KPIs from the data and find relationships with the real world. Build dashboards or create some reports. Tell us what is important and why, build some metrics and help us make better decisions with data. You might want to create some impressive data visualizations. Remember this is real data, so we expect you to extract meaning from it and show us which events are important, how customers from certain regions are better or worse, or yet which products should we focus our sales efforts. Show us that you master Excel, knows a lot of SQL and understand the basics of Python.
+Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 
----
-### 2. Data Scientist
-Your job is to build robust statistical analysis with the data. Do some feature engineering, create models to predict sales or classify comments. Remember that you might have to put models into production environment, then make your code ready to get a new unseen json record and predict the outcome from that data. Discover why customers are happy or unhappy or tell us how to improve delivery performance. You name it... there is a ton of thins that you might do with the data. Just show us that you are a Pandas Ninja, a Jedi Master of scikit-learn and that you are able to build fantastic visualizations. Statistics and SQL are also important skills.
+### Cientista de dados
+* Que tal uma análise textual dos clientes que deixaram comentários sobre suas compras? 
+* Alguns clientes não escreveram um comentário. Mas por que eles estão satisfeitos?
+* Com as informações da data de compra, você poderá prever vendas futuras!
+* Você também poderá focar na logística e encontrar maneiras de otimizar os tempos de entrega.
+* Esses dados possuem coordenadas de geolocalização. Há diferenças no padrão de consumo por regiões?
+* Divirta-se descobrindo as categorias de produtos mais propensas à insatisfação do cliente.
+* Crie recursos deste rico conjunto de dados, feature engineering ou anexe algumas informações públicas externas a ele.
+* E um modelo para precificar os produtos do nosso catálogo? Modelagem matemática para otimizar rotas? Testes de hipóteses para validar algum questionamento?
+* O que acha de escrever um relatório ou slides detalhando as suas descobertas?
+* Fique livre para criar sua própria abordagem, caso considere que as dicas anteriores não sejam pertinentes.
 
----
-### 3. Data Engineer
-Your job is to build our pipes of data. You breath ETL. Complement the dataset with some external data or create a crawler to aquire information from third party websites or APIs. Do tons of feature engineering. Set-up a relational database (or a NoSQL) and input the treated data there. Create some complex SQLs to extract and transform data. Show us that you are fluent at SQL and Pandas, have knowledge of Python Scripting and that you are able to do complex and meaningful work with data.
+### Analista de dados e Business Intelligence
+* Pense em alguns KPIs para monitoramento. Talvez outros para direcionamento dos gestores! 
+* Um cruzamento dos dados poderia gerar relatórios interessantes. Afinal, quem são os Top 10?
+* Que tal realizar uma análise exploratória dos dados. E então? Algo lhe chama a atenção?
+* Você poderia apresentar esses dados em um dashboard. Isso daria agilidade na tomada de decisão!
+* Temos interesse em suas habilidades com matemática aplicada e estatística descritiva. O que você pode nos mostrar com os dados?
+* O que acha de escrever um relatório ou slides detalhando as suas descobertas?
+* Fique livre para criar sua própria abordagem, caso considere que as dicas anteriores não sejam pertinentes.
+
+### Engenheiro(a) de dados
+* Alguns membros do time dizem que a atual modelagem do banco de dados é adequada para o uso dos cientistas de dados e analistas de BI, porém, outros dizem que existem formas de modelar bancos de dados que trarão mais eficiência. Qual é a sua opinião sobre isso?
+* Estamos preocupados com o vertiginoso aumento do volume em nosso banco de dados atual? Você consideraria uma opção mais escalável ou devemos manter a estrutura existente?
+* Nossa ferramenta de visualização de dashboards está lenta e o nosso time detectou que o problema está na infraestrutura de dados. Como você abordaria esta situação do ponto vista de arquitetura de dados?
+* Nosso banco de dados está hospedado na nuvem e nossas ferramentas de análise de dados são "on premisses". Você manteria este arranjo ou faria mudanças visando mais performance?
+* Nossa área operacional necessita de informações em tempo real, porém os diretores da empresa, que acompanham somente informações de KPIs mensais, alegam que isso é desnecessário e acarretaria custos. Qual é o seu posicionamento sobre isso?
+* Nosso time que está focado em Governança de Dados alega que documentar os processos é mais importante do que refatorar os mais de 500 scripts que estão funcionando com lentidão. Como você atuaria neste impasse, se tivesse que priorizar o trabalho?
+* Aqui no olist, somos muito mão na massa! Como Engenheiro(a) de dados, mostre pra gente o que você consegue fazer na prática com esse nosso banco de dados. (Sabemos que é uma amostra, mas imagine que o todo pode ser 10 terabytes de dados)
+* O que acha de escrever um relatório ou slides sobre a sua abordagem na solução de alguns desses problemas?
+* Fique livre para criar sua própria abordagem, caso considere que as dicas anteriores não sejam pertinentes.
+
+## O que esperamos do candidato?
+
+Queremos entender sua proficiência técnica, raciocínio analítico e apresentação de resultados.
+
+**Você não precisa responder todas as perguntas ou dicas que foram listadas anteriormente, são apenas insights (mantenha o foco naquilo que tem maior afinidade).** Porém, queremos ter uma clara percepção sobre como você resolve problemas.
+
+Para isso, fique a vontade para adotar softwares, processos e ferramentas que considerar adequados.
+
+Você terá um prazo de até 15 dias e após a finalização do teste, nos encaminhe um relatório de trabalho com até 5 páginas.
+
+Não esqueça de indicar em seu relatório os links/endereços, caso tenha hospedado códigos/arquivos em algum repositório na internet.
+
+Finalizando, não esqueça de nos avisar aqui -> [https://bit.ly/2NNVyXk](https://bit.ly/2NNVyXk).
+
