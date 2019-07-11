@@ -1,4 +1,4 @@
-# Work at Olist - BS&A
+# Work at Olist - BS&A (V2)
 
 [Olist](https://olist.com/) is the largest department store of Brazilian marketplaces. We connect small businesses to channels without hassle and with a single contract. We have connected more than 4.1 thousand sellers to stores like Americanas.com, Ponto Frio, Walmart, Submarino, Mercado Livre, Amazon, among others.
 
