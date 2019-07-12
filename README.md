@@ -46,7 +46,7 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 
 ### Analista de dados e Business Intelligence
 * Pense em alguns KPIs para monitoramento. Talvez outros para direcionamento dos gestores! 
-* Um cruzamento dos dados poderia gerar relatórios interessantes. Afinal, quem são os Top 10?
+* Um cruzamento dos dados poderia gerar relatórios interessantes. Afinal, quem são os Top 10 em vendas? Que tipo produtos eles vendem? Qual é o impacto deles para o negócio?
 * Que tal realizar uma análise exploratória dos dados. E então? Algo lhe chama a atenção?
 * Você poderia apresentar esses dados em um dashboard. Isso daria agilidade na tomada de decisão!
 * Temos interesse em suas habilidades com matemática aplicada e estatística descritiva. O que você pode nos mostrar com os dados?
