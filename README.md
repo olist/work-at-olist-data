@@ -68,7 +68,7 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 
 Queremos entender sua proficiência técnica, raciocínio analítico e apresentação de resultados.
 
-**Você não precisa responder todas as perguntas ou dicas que foram listadas anteriormente, são apenas insights (mantenha o foco naquilo que tem maior afinidade).** Porém, queremos ter uma clara percepção sobre como você resolve problemas.
+**Você não precisa responder todas as perguntas ou dicas que foram listadas anteriormente, são apenas insights (mantenha o foco naquilo que você mais afinidade).** Porém, queremos ter uma clara percepção sobre como você resolve problemas.
 
 Para isso, fique a vontade para adotar softwares, processos e ferramentas que considerar adequados.
 
