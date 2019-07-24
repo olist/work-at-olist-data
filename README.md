@@ -4,7 +4,7 @@ Esta é a página com o teste prático para os candidatos ao processo seletivo d
 
 ## Cenário
 
-O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo com mais de 750k produtos, centenas de milhares de pedidos e uma rede de mais de 5 mil lojistas parceiros espalhados por todos os estados do Brasil. Entendemos que a área de dados e inteligência é uma das principais alavancas de crescimento do negócio, por isso buscamos profissionais apaixonados por dados para integrar a nossa equipe de Business Science e Analytics (BSA).
+O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo com mais de 750 mil produtos, centenas de milhares de pedidos e uma rede de mais de 5 mil lojistas parceiros espalhados por todos os estados do Brasil. Entendemos que a área de dados e inteligência é uma das principais alavancas de crescimento do negócio, por isso buscamos profissionais apaixonados por dados para integrar a nossa equipe de Business Science e Analytics (BSA).
 
 Estamos o tempo todo gerando dados, dados e muito mais dados. Nosso cenário é de big data!
 
