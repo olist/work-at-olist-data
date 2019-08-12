@@ -1,4 +1,4 @@
-# Teste prático (olist-hiring-bsa)
+# Teste prático (work-at-olist-data)
 
 Esta é a página sobre o teste prático para os candidatos ao processo seletivo de cientistas, analistas e engenheiros de dados para o time de Business Science & Analytics do olist. Ao finalizar o teste, nos comunique pelo **[https://bit.ly/2NNVyXk](https://bit.ly/2NNVyXk)**.
 
@@ -10,7 +10,7 @@ Estamos o tempo todo gerando dados, dados e muito mais dados. Nosso cenário é 
 
 ## Como é o nosso banco de dados?
 
-Considere que a figura abaixo seja um hipotético banco de dados de e-commerce e que cada tabela desse banco de dados esteja disponível como um dataset. [Aqui estão os datasets](/datasets). Perceba que os dados são amostrais e estão apresentados no modelo relacional, pois foram extraídos diretamente do ambiente transacional.
+Considere que a figura abaixo seja a estrutura do nosso banco de dados de e-commerce e que cada tabela desse banco de dados esteja disponível como um dataset. [Aqui estão os datasets](/datasets). Perceba que os dados são amostrais e estão apresentados no modelo relacional, pois foram extraídos diretamente do ambiente transacional.
 
 ![Estrutura do Banco de Dados](images/schema.png)
 
@@ -68,11 +68,11 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 
 Queremos entender sua proficiência técnica, raciocínio analítico e apresentação de resultados.
 
-**Você não precisa responder todas as perguntas ou dicas que foram listadas anteriormente, são apenas insights (mantenha o foco naquilo que você mais afinidade).** Porém, queremos ter uma clara percepção sobre como você resolve problemas.
+**Você não precisa responder todas as perguntas ou dicas que foram listadas anteriormente, são apenas sugestões (mantenha o foco naquilo que você mais afinidade).** Porém, queremos ter uma clara percepção sobre como você resolve problemas.
 
 Para isso, fique a vontade para adotar softwares, processos e ferramentas que considerar adequados.
 
-Você terá um prazo de até 15 dias e após a finalização do teste, nos encaminhe um relatório de trabalho com até 5 páginas.
+Você terá um prazo de até 15 dias e após a finalização do teste, nos encaminhe um relatório de trabalho com até 5 páginas. Pode ser em qualquer formato, queremos apenas entender qual(is) problema(s) você tentou resolver, qual(is) abordagens adotou e os resultados.
 
 Não esqueça de indicar em seu relatório os links/endereços, caso tenha hospedado códigos/arquivos em algum repositório na internet.
 
