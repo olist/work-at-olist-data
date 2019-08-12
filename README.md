@@ -72,7 +72,7 @@ Queremos entender sua proficiência técnica, raciocínio analítico e apresenta
 
 Para isso, fique a vontade para adotar softwares, processos e ferramentas que considerar adequados.
 
-Você terá um prazo de até 15 dias e após a finalização do teste, nos encaminhe um relatório de trabalho com até 5 páginas. Pode ser em qualquer formato, queremos apenas entender qual(is) problema(s) você tentou resolver, qual(is) abordagens adotou e os resultados.
+Você terá um prazo de até 15 dias e após a finalização do teste, nos encaminhe um relatório de trabalho com até 5 páginas. Pode ser em qualquer formato, queremos apenas entender como você apresenta os resultados do seu trabalho.
 
 Não esqueça de indicar em seu relatório os links/endereços, caso tenha hospedado códigos/arquivos em algum repositório na internet.
 
