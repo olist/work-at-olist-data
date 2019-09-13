@@ -54,8 +54,8 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 * Fique livre para criar sua própria abordagem, caso considere que as dicas anteriores não sejam pertinentes.
 
 ### Engenheiro(a) de dados
-* Gostaríamos de analisar suas habilidades com SQL e modelagem e integração de dados em bancos. Quais as vantagens do modelo escolhido em questões de performance?
-* Quais seus conhecimento em processos de ETL e conceitos de DW? Que tal replicar nossos datasets e remodelar em um banco de dados e apresentar as melhorias realizadas em sua criação?
+* Gostaríamos de analisar suas habilidades com SQL, modelagem dimensional e integração de dados. Quais as vantagens do modelo escolhido em questões de performance?
+* Mostre seus conhecimento em processos de ETL e conceitos de Data Warehouse? Que tal replicar nossos datasets, remodelar em um banco de dados e apresentar as melhorias realizadas em sua criação?
 * É possível utilizar o modelo proposto em um ambiente cloud? Quais plataformas ou serviços você utilizaria?
 * Alguns membros do time dizem que a atual modelagem do banco de dados é adequada para o uso dos cientistas de dados e analistas de BI, porém, outros dizem que existem formas de modelar bancos de dados que trarão mais eficiência. Qual é a sua opinião sobre isso?
 * Estamos preocupados com o vertiginoso aumento do volume em nosso banco de dados atual? Você consideraria uma opção mais escalável ou devemos manter a estrutura existente?
@@ -63,7 +63,7 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 * Nosso banco de dados está hospedado na nuvem e nossas ferramentas de análise de dados são "on premisses". Você manteria este arranjo ou faria mudanças visando mais performance?
 * Nossa área operacional necessita de informações em tempo real, porém os diretores da empresa, que acompanham somente informações de KPIs mensais, alegam que isso é desnecessário e acarretaria custos. Qual é o seu posicionamento sobre isso?
 * Nosso time que está focado em Governança de Dados alega que documentar os processos é mais importante do que refatorar os mais de 500 scripts que estão funcionando com lentidão. Como você atuaria neste impasse, se tivesse que priorizar o trabalho?
-* Aqui no olist, somos muito mão na massa! Como Engenheiro(a) de dados, mostre pra gente o que você consegue fazer na prática com esse nosso banco de dados. (Sabemos que é uma amostra, mas imagine que o todo pode ser 10 terabytes de dados)
+* Aqui no olist, somos muito mão na massa! Como Engenheiro(a) de dados, mostre pra gente o que você consegue fazer na prática com esse nosso banco de dados. (Sabemos que é uma amostra, mas imagine que o todo pode ser  petabytes de dados)
 * O que acha de escrever um relatório ou slides sobre a sua abordagem na solução de alguns desses problemas?
 * Fique livre para criar sua própria abordagem, caso considere que as dicas anteriores não sejam pertinentes.
 
