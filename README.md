@@ -80,4 +80,3 @@ Você terá um prazo de até 15 dias e após a finalização do teste, nos encam
 Não esqueça de indicar em seu relatório os links/endereços, caso tenha hospedado códigos/arquivos em algum repositório na internet.
 
 Finalizando, não esqueça de nos avisar aqui -> [https://bit.ly/2NNVyXk](https://bit.ly/2NNVyXk).
-
