@@ -4,13 +4,13 @@ Esta é a página sobre o teste prático para os candidatos ao processo seletivo
 
 ## Cenário
 
-O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo com mais de 750 mil produtos, centenas de milhares de pedidos e uma rede de mais de 5 mil lojistas parceiros espalhados por todos os estados do Brasil. Entendemos que a área de dados e inteligência é uma das principais alavancas de crescimento do negócio, por isso buscamos profissionais apaixonados por dados para integrar a nossa equipe de Business Science e Analytics (BSA).
+O olist é a maior loja de departamentos dos marketplaces. Possui um catálogo com mais de 750 mil produtos, centenas de milhares de pedidos e uma rede de mais de 5 mil lojistas parceiros espalhados por todas as regiões do Brasil. Entendemos que a área de dados e inteligência é uma das principais alavancas de crescimento do negócio, por isso buscamos profissionais apaixonados por dados para integrar a nossa equipe de Business Science e Analytics (BSA).
 
 Estamos o tempo todo gerando dados, dados e muito mais dados. Nosso cenário é de big data!
 
 ## Como é o nosso banco de dados?
 
-Considere que a figura abaixo seja a estrutura do nosso banco de dados de e-commerce e que cada tabela desse banco de dados esteja disponível como um dataset. [Aqui estão os datasets](/datasets). Perceba que os dados são amostrais e estão apresentados no modelo relacional, pois foram extraídos diretamente do ambiente transacional.
+Considere que a figura abaixo seja a estrutura do nosso banco de dados de e-commerce e que cada tabela desse banco de dados esteja disponível como um dataset. [Aqui estão os datasets](/datasets). Perceba que os dados são amostrais e estão apresentados no modelo relacional, pois foram extraídos diretamente, sem qualquer tratamento,  do ambiente transacional.
 
 ![Estrutura do Banco de Dados](images/schema.png)
 
@@ -25,9 +25,9 @@ Esta plataforma de e-commerce transaciona dados do varejo brasileiro. Assim, as 
 * Será que nossos diferentes lojistas associados conseguem manter o preço do mesmo produto sem grandes discrepâncias?
 * Podemos dar os mesmos benefícios para todos os lojistas (sellers)? Ou existe algum que merece destaque?
 * Existe diferença no valor do frete praticado em regiões/cidades diferentes? Ou podemos aplicar as mesmas regras de subsídio de frete para qualquer localidade?
-* Será que nosso catálogo de produtos é abrangente? Ou tem foco em poucas categorias?
-* Será que vendemos os mesmos produtos rotineiramente? Ou existem sazonalidades?
-* Será que conseguimos ter um modelo preditivo para nos preparar para o futuro?
+* Será que nosso catálogo de produtos é abrangente? Ou tem foco em categorias específicas?
+* Será que sempre vendemos os mesmos produtos? Ou existem sazonalidades?
+* Será que existe um modelo preditivo para nos preparar para o futuro?
 * Será que o atual banco de dados vai suportar o nosso crescimento? Ou existe uma opção mais escalável?
 
 Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
@@ -71,7 +71,7 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 
 Queremos entender sua proficiência técnica, raciocínio analítico e apresentação de resultados.
 
-**Você não precisa responder todas as perguntas ou dicas que foram listadas anteriormente, são apenas sugestões (mantenha o foco naquilo que você mais afinidade).** Porém, queremos ter uma clara percepção sobre como você resolve problemas.
+**Você não precisa responder todas as perguntas ou dicas que foram listadas anteriormente, são apenas sugestões (mantenha o foco naquilo que você tem mais afinidade).** Porém, queremos ter uma clara percepção sobre como você resolve problemas.
 
 Para isso, fique a vontade para adotar softwares, processos e ferramentas que considerar adequados.
 
