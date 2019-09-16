@@ -54,9 +54,8 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 * Fique livre para criar sua própria abordagem, caso considere que as dicas anteriores não sejam pertinentes.
 
 ### Engenheiro(a) de dados
-* Gostaríamos de analisar suas habilidades com SQL, modelagem dimensional e integração de dados. Quais as vantagens do modelo escolhido em questões de performance?
-* Mostre seus conhecimento em processos de ETL e conceitos de Data Warehouse? Que tal replicar nossos datasets, remodelar em um banco de dados e apresentar as melhorias realizadas em sua criação?
-* É possível utilizar o modelo proposto em um ambiente cloud? Quais plataformas ou serviços você utilizaria?
+* Gostaríamos de analisar suas habilidades com SQL, modelagem dimensional e integração de dados. Mostre seus conhecimento em processos de ETL e conceitos de Data Warehouse? Que tal replicar nossos datasets, remodelar em um banco de dados e apresentar as melhorias realizadas em sua criação?
+* É possível utilizar o modelo proposto em um ambiente cloud? Quais plataformas ou serviços você utilizaria? Quais as vantagens do modelo escolhido em questões de performance?
 * Alguns membros do time dizem que a atual modelagem do banco de dados é adequada para o uso dos cientistas de dados e analistas de BI, porém, outros dizem que existem formas de modelar bancos de dados que trarão mais eficiência. Qual é a sua opinião sobre isso?
 * Estamos preocupados com o vertiginoso aumento do volume em nosso banco de dados atual? Você consideraria uma opção mais escalável ou devemos manter a estrutura existente?
 * Nossa ferramenta de visualização de dashboards está lenta e o nosso time detectou que o problema está na infraestrutura de dados. Como você abordaria esta situação do ponto vista de arquitetura de dados?
@@ -75,8 +74,10 @@ Queremos entender sua proficiência técnica, raciocínio analítico e apresenta
 
 Para isso, fique a vontade para adotar softwares, processos e ferramentas que considerar adequados.
 
-Você terá um prazo de até 15 dias e após a finalização do teste, nos encaminhe um relatório contextualizando o  trabalho realizado e suas soluções. Pode ser em qualquer formato, queremos apenas entender como você apresenta os resultados do seu trabalho.
+Você terá um prazo de até 15 dias e após a finalização do teste, nos encamin  he um relatório contextualizando o  trabalho realizado e suas soluções. Pode ser em qualquer formato, queremos apenas entender como você apresenta os resultados do seu trabalho.
 
 Não esqueça de indicar em seu relatório os links/endereços, caso tenha hospedado códigos/arquivos em algum repositório na internet.
 
 Finalizando, não esqueça de nos avisar aqui -> [https://bit.ly/2NNVyXk](https://bit.ly/2NNVyXk).
+
+![Dados aleatórios](images/sort_data.jpg)
