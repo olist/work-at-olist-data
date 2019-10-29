@@ -54,7 +54,7 @@ Ficou confuso(a). Segue abaixo, dicas mais específicas para cada função.
 * Fique livre para criar sua própria abordagem, caso considere que as dicas anteriores não sejam pertinentes.
 
 ### Engenheiro(a) de dados
-* Gostaríamos de analisar suas habilidades com SQL, modelagem dimensional e integração de dados. Mostre seus conhecimento em processos de ETL e conceitos de Data Warehouse? Que tal replicar nossos datasets, remodelar em um banco de dados e apresentar as melhorias realizadas em sua criação?
+* Gostaríamos de analisar suas habilidades com SQL, modelagem dimensional e integração de dados. Mostre seus conhecimento em processos de ETL e conceitos de Data Warehouse. Que tal replicar nossos datasets, remodelar em um banco de dados e apresentar as melhorias realizadas em sua criação.
 * É possível utilizar o modelo proposto em um ambiente cloud? Quais plataformas ou serviços você utilizaria? Quais as vantagens do modelo escolhido em questões de performance?
 * Alguns membros do time dizem que a atual modelagem do banco de dados é adequada para o uso dos cientistas de dados e analistas de BI, porém, outros dizem que existem formas de modelar bancos de dados que trarão mais eficiência. Qual é a sua opinião sobre isso?
 * Estamos preocupados com o vertiginoso aumento do volume em nosso banco de dados atual? Você consideraria uma opção mais escalável ou devemos manter a estrutura existente?
