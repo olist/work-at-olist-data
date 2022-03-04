@@ -1,6 +1,9 @@
 # Teste prático (work-at-olist-data)
 
-Esta é a página sobre o teste prático para os candidatos ao processo seletivo de cientistas, analistas e engenheiros de dados para o time de Business Science & Analytics do olist. Ao finalizar o teste, nos comunique pelo **[https://bit.ly/2NNVyXk](https://bit.ly/2NNVyXk)**.
+Esta é a página sobre o teste prático para os candidatos ao processo seletivo de cientistas, analistas e engenheiros de dados para o time de Business Science & Analytics do olist.
+
+## Conhecendo nosso time de dados:
+[BSA: um time de pessoas que vão além das ferramentas e números](https://medium.com/olist/bsa-um-time-de-pessoas-que-v%C3%A3o-al%C3%A9m-das-ferramentas-e-n%C3%BAmeros-76a073cadd67)
 
 ## Cenário
 
@@ -77,7 +80,3 @@ Para isso, fique a vontade para adotar softwares, processos e ferramentas que co
 Você terá um prazo de até 7 dias e após a finalização do teste, nos encaminhe um relatório contextualizando o trabalho realizado e suas soluções. Pode ser em qualquer formato, queremos apenas entender como você apresenta os resultados do seu trabalho.
 
 Não esqueça de indicar em seu relatório os links/endereços, caso tenha hospedado códigos/arquivos em algum repositório na internet.
-
-Finalizando, não esqueça de nos avisar aqui -> [https://bit.ly/2NNVyXk](https://bit.ly/2NNVyXk).
-
-![Dados aleatórios](images/sort_data.jpg)
